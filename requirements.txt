@@ -1,0 +1,12 @@
+pandas
+betopic=0.16.0
+tqdm
+nltk
+numpy
+transformers
+scikit-learn
+umap-learn
+plotly
+emoji==0.6.0
+openai
+langdetect
