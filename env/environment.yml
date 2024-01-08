@@ -1,0 +1,14 @@
+name: rangitshem_ling226_fp
+channels:
+  - conda-forge
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.8
+  - bertopic
+  - hdbscan
